@@ -1,1 +1,1 @@
-![Screenshot](maze.tif)
+![Screenshot](maze.gif)
